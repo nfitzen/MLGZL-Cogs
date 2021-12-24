@@ -1,0 +1,18 @@
+This is an additional permission under section 7 of version 3 of the GNU Affero General Public License.
+
+0. Definitions
+
+As used in this exception:
+
+1. The "AGPL" refers to version 3 of the GNU Affero General Public License.
+2. "Red-DiscordBot" refers to a version of Red-DiscordBot licensed either under version 3 of the GNU General Public License, or under version 3 of the GNU Affero General Public License, or under any later versions of those licenses.
+3. A "plugin" means a plugin, cog, module, or software component, designed for inclusion in and/or to be loaded by Red-DiscordBot, in order to add, extend, or modify functionality of Red-DiscordBot.
+4. "First-party plugins" means plugins included in the normal form of packaging Red-DiscordBot.
+5. "Third-party plugins" means plugins that are not first-party plugins.
+6. For the purposes of this exception, the term "interface" is taken to include an interface exposed via Red-DiscordBot to a plugin, such as (without limitation) accessing that plugin's configuration data via an interface within Red-DiscordBot.
+
+The meaning of the term "interface" not otherwise described in this section shall not be affected thereby.
+
+1. Additional permission under section 7 of the AGPL
+
+As an additional permission, if you modify this Program by linking or combining it with Red-DiscordBot, by including this Program as a third-party plugin, then for the purposes of section 13 of the AGPL, "Corresponding Source" does not include third-party plugins, that this Program does not use an interface of; that do not use an interface of this Program; that, taken individually, this Program is not based on; and that, taken individually, are not based on this Program. However, the terms of the AGPL still apply in full (i.e., this exception doesn't apply) to the linking or combining of this Program with Red-DiscordBot and/or any first-party plugins.
