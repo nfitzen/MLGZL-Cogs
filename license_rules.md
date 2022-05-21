@@ -96,7 +96,7 @@ in both 2021 and 2022. This is how it'll look:
 
 ```python
 # SPDX-FileCopyrightText: AGPL-3.0-or-later
-# Copyright (C) 2021, 2022 nfitzen <https://github.com/nfitzen> and bob
+# Copyright (C) 2021-2022 nfitzen <https://github.com/nfitzen> and bob
 # Copyright (C) 2024 Alice
 
 def add(a: float, b: float) -> float:
